@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script type="text/javascript" src="jquery.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+</head>
+
+<body>
+    <div class="invis">
+        <select id='direct'>
+            <option value="asc">По возрастанию</option>
+            <option selected value="desc" >По убыванию</option>
+        </select>
+        <select id='itemSort'>
+            <option selected value="qtyWords" >По кол-ву слов</option>
+            <option value="name" >По имени</option>
+            <option value="date" >По дате</option>
+        </select>
+        <input type="button" id='sort' value='Сортировать'>
+        <table border="1" id="table" class="table table-striped table-dark">
+            <caption>
+                <h1>Таблица результатов</h1>
+            </caption>
+            <tr>
+                <th scope="col">№ п/п</th>
+                <th scope="col">Имя</th>
+                <th scope="col">Количество угаданных слов</th>
+                <th scope="col">Дата</th>
+            </tr>
+        </table>
+    </div>
+    <script>
+        // let table = document.getElementById('table');
+        // for (let i = 0; i < 10; i++) {
+        //     let str = document.createElement('tr');
+        //     str.className = 'del';
+        //     table.appendChild(str);
+        //     for (let i = 0; i < 4; i++) {
+        //         let col = document.createElement('td');
+        //         col.innerText = 'asdad';
+        //         col.className = 'del';
+        //         str.appendChild(col);
+        //     }
+        // }
+
+function printTable (sortItem, sortDirect){
+        fetch(`http://localhost:3000/tableWin?_sort=${sortItem}&_order=${sortDirect}`)
+            .then(function (response) {
+                return response.json()
+            })
+            .then(function (data) {
+                let table = document.getElementById('table');
+                let i = 0;
+                for (i = 0; i < data.length; i++) {
+                    let str = document.createElement('tr');
+                    str.className = 'del';
+                    table.appendChild(str);
+                    for (let j = 0; j < 4; j++) {
+                        let col = document.createElement('td');
+                        switch (j) {
+                            case 0: { col.innerText = i + 1; col.align = 'center'; break };
+                            case 1: { col.innerText = data[i].name; break };
+                            case 2: {
+                            col.innerText = data[i].qtyWords;
+                                col.align = 'center'; break
+                            };
+                            case 3: { col.innerText = data[i].date; break };
+                            default: break;
+                        }
+                        col.className = 'del';
+                        str.appendChild(col);
+                    }
+                }
+
+            })
+        }   
+// Нажатие кнопки Сортировать
+let sort = document.getElementById('sort');
+            let direct = document.getElementById('direct');
+            let itemSort = document.getElementById('itemSort');
+            let sortDirect = direct.options[direct.selectedIndex].value;
+            let sortItem = itemSort.options[itemSort.selectedIndex].value;
+            printTable(sortItem, sortDirect);
+
+             sort.onclick = function(){
+                $(".del").remove();
+                let sortDirect = direct.options[direct.selectedIndex].value;
+                let sortItem = itemSort.options[itemSort.selectedIndex].value;
+                printTable(sortItem, sortDirect);
+
+             }    
+            // let sort = document.getElementById('sort');
+            // let direct = document.getElementById('direct');
+            // let itemSort = document.getElementById('itemSort');
+            // sort.onclick = function(){
+            //     let strUser = direct.options[direct.selectedIndex].value;
+            //     console.log(strUser);
+            // }
+
+//         alert('!!!!!!!!!!!!!!!!!!');
+//         //  $(function(){
+//         $(".del").remove();
+
+//         //  });
+//         //  $(document).ready(function(){
+
+//         $(".invis").animate({ opacity: "hide" }, "slow");
+//         // $(".invis").animate({ opacity: "1.0" }, "slow");
+//         // });
+//         // $(document).ready(function(){
+//         $(".invis").show(1000);
+// // $(".invis").animate({ opacity: "1.0" }, "slow");
+// //  });
+
+
+        // $('.del').remove(); 
+    </script>
+
+</body>
+
+</html>

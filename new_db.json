@@ -1,0 +1,615 @@
+{
+  "words": [
+    {
+      "rus": "на самом деле",
+      "eng": "actually",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/actually.mp3"
+    },
+    {
+      "rus": "снова",
+      "eng": "again",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/again.mp3"
+    },
+    {
+      "rus": "чистить",
+      "eng": "clean",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/clean.mp3"
+    },
+    {
+      "rus": "едва не",
+      "eng": "almost",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/almost.mp3"
+    }, 
+    {
+      "rus": "общий",
+      "eng": "common",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/common.mp3"
+    },
+    {
+      "rus": "полный, заполненный",
+      "eng": "complete",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/complete.mp3"
+    },
+    {
+      "rus": "уже",
+      "eng": "already",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/already.mp3"
+    },
+    {
+      "rus": "правильный",
+      "eng": "correct",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/correct.mp3"
+    },
+    {
+      "rus": "мог ",
+      "eng": "could",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/could.mp3"
+    },
+    {
+      "rus": "хорошо",
+      "eng": "alright",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/alright.mp3"
+    },
+    {
+      "rus": "также",
+      "eng": "also",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/also.mp3"
+    },
+    {
+      "rus": "всегда",
+      "eng": "always",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/always.mp3"
+    },
+    {
+      "rus": "и",
+      "eng": "and",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/and.mp3"
+    },
+    {
+      "rus": "злой, рассерженный",
+      "eng": "angry",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/angry.mp3"
+    },
+    {
+      "rus": "животное",
+      "eng": "animal",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/animal.mp3"
+    },
+    {
+      "rus": "другой",
+      "eng": "another",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/another.mp3"
+    },
+    {
+      "rus": "что-либо",
+      "eng": "anything",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/anything.mp3"
+    },
+    {
+      "rus": "множ.от to be ",
+      "eng": "are",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/are.mp3"
+    },
+    {
+      "rus": "у",
+      "eng": "at",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/at.mp3"
+    },
+    {
+      "rus": "плохой",
+      "eng": "bad",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/bad.mp3"
+    },
+    {
+      "rus": "плохо",
+      "eng": "badly",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/badly.mp3"
+    },
+    {
+      "rus": "потому что",
+      "eng": "because",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/because.mp3"
+    },
+    {
+      "rus": "начинающий",
+      "eng": "beginner",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/beginner.mp3"
+    },
+    {
+      "rus": "кроме",
+      "eng": "beside",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/beside.mp3"
+    },
+    {
+      "rus": "лучший",
+      "eng": "best",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/best.mp3"
+    },
+    {
+      "rus": "лучше",
+      "eng": "better",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/better.mp3"
+    },
+    {
+      "rus": "большой",
+      "eng": "big",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/big.mp3"
+    },
+    {
+      "rus": "птица",
+      "eng": "bird",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/bird.mp3"
+    },
+    {
+      "rus": "черный",
+      "eng": "black",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/black.mp3"
+    },
+    {
+      "rus": "голубой",
+      "eng": "blue",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/blue.mp3"
+    },
+    {
+      "rus": "книга",
+      "eng": "book",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/book.mp3"
+    },
+    {
+      "rus": "оба/обе",
+      "eng": "both",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/both.mp3"
+    },
+    {
+      "rus": "коричневый",
+      "eng": "brown",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/brown.mp3"
+    },
+    {
+      "rus": "но",
+      "eng": "but",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/but.mp3"
+    },
+    {
+      "rus": "осторожно",
+      "eng": "carefully",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/carefully.mp3"
+    },
+    {
+      "rus": "кошка",
+      "eng": "cat",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/cat.mp3"
+    },
+    {
+      "rus": "корова",
+      "eng": "cow",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/cow.mp3"
+    },
+    {
+      "rus": "привычка",
+      "eng": "custom",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/custom.mp3"
+    },
+    {
+      "rus": "определённо",
+      "eng": "definitely",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/definitely.mp3"
+    },
+    {
+      "rus": "делал",
+      "eng": "did",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/did.mp3"
+    },
+    {
+      "rus": "опасный",
+      "eng": "dangerous",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/dangerous.mp3"
+    },
+    {
+      "rus": "разный",
+      "eng": "different",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/different.mp3"
+    },
+    {
+      "rus": "трудный ",
+      "eng": "difficult",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/difficult.mp3"
+    },
+    {
+      "rus": "грязный",
+      "eng": "dirty",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/dirty.mp3"
+    },{
+      "rus": "мешать",
+      "eng": "disturb",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/disturb.mp3"
+    },
+    {
+      "rus": "легкий",
+      "eng": "easy",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/easy.mp3"
+    },
+    {
+      "rus": "пустой",
+      "eng": "empty",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/empty.mp3"
+    },{
+      "rus": "сделанный",
+      "eng": "done",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/done.mp3"
+    },
+    {
+      "rus": "флаг",
+      "eng": "flag",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/flag.mp3"
+    },
+	{
+      "rus": "для",
+      "eng": "for",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/for.mp3"
+    },
+	{
+      "rus": "нашедший",
+      "eng": "found",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/found.mp3"
+    },
+	{
+      "rus": "смешной",
+      "eng": "funny",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/funny.mp3"
+    },
+	{
+      "rus": "от",
+      "eng": "from",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/from.mp3"
+    },
+	{
+      "rus": "плоский",
+      "eng": "flat",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/flat.mp3"
+    },
+	{
+      "rus": "жир",
+      "eng": "fat",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/fat.mp3"
+    },
+	{
+      "rus": "дверь",
+      "eng": "door",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/door.mp3"
+    },
+	{
+      "rus": "мечтать",
+      "eng": "dream",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/dream.mp3"
+    },
+    {
+      "rus": "будущее",
+      "eng": "future",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/future.mp3"
+    },
+	{
+      "rus": "утка",
+      "eng": "duck",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/duck.mp3"
+    },
+	{
+      "rus": "электронный",
+      "eng": "electric",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/electric.mp3"
+    },
+	{
+      "rus": "сконфуженный",
+      "eng": "embarrassed",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/embarrassed.mp3"
+    },
+	{
+      "rus": "электричество",
+      "eng": "electricity",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/electricity.mp3"
+    },
+	{
+      "rus": "лампа",
+      "eng": "lamp",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/lamp.mp3"
+    },
+	{
+      "rus": "немного",
+      "eng": "little",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/little.mp3"
+    },
+	{
+      "rus": "длинный",
+      "eng": "long",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/long.mp3"
+    },
+	{
+      "rus": "низкий",
+      "eng": "low",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/low.mp3"
+    },
+	{
+      "rus": "светлый",
+      "eng": "light",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/light.mp3"
+    },
+	{
+      "rus": "мужчина",
+      "eng": "male",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/male.mp3"
+    },
+	{
+      "rus": "сводить",
+      "eng": "match",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/match.mp3"
+    },
+	{
+      "rus": "удача",
+      "eng": "luck",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/luck.mp3"
+    },
+	{
+      "rus": "сущность",
+      "eng": "matter",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/matter.mp3"
+    },
+	{
+      "rus": "мощность",
+      "eng": "might",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/might.mp3"
+    },
+	{
+      "rus": "газета",
+      "eng": "newspaper",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/newspaper.mp3"
+    },
+	{
+      "rus": "сущность",
+      "eng": "maybe",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/maybe.mp3"
+    },
+	{
+      "rus": "ленивый",
+      "eng": "lazy",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/lazy.mp3"
+    },
+	{
+      "rus": "жизнь",
+      "eng": "life",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/life.mp3"
+    },
+	{
+      "rus": "класть",
+      "eng": "lay",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/lay.mp3"
+    },
+	{
+      "rus": "шутка",
+      "eng": "joke",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/joke.mp3"
+    },
+	{
+      "rus": "король",
+      "eng": "king",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/king.mp3"
+    },
+    {
+      "rus": "мусор",
+      "eng": "garbage",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/garbage.mp3"
+    },
+    {
+      "rus": "тяжелый",
+      "eng": "heavy",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/heavy.mp3"
+    },
+	{
+      "rus": "сама",
+      "eng": "herself",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/herself.mp3"
+    },
+	{
+      "rus": "сам",
+      "eng": "himself",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/himself.mp3"
+    },
+	{
+      "rus": "его",
+      "eng": "his",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/his.mp3"
+    },
+	{
+      "rus": "праздник",
+      "eng": "holiday",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/holiday.mp3"
+    },
+	{
+      "rus": "дыра",
+      "eng": "hole",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/hole.mp3"
+    },
+	{
+      "rus": "история",
+      "eng": "history",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/history.mp3"
+    },
+	{
+      "rus": "высокий",
+      "eng": "high",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/high.mp3"
+    },
+    {
+      "rus": "надеяться",
+      "eng": "hope",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/hope.mp3"
+    },
+	{
+      "rus": "лошадь",
+      "eng": "horse",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/horse.mp3"
+    },
+	{
+      "rus": "идея",
+      "eng": "idea",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/idea.mp3"
+    },
+	{
+      "rus": "важный",
+      "eng": "important",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/important.mp3"
+    },
+    {
+      "rus": "достаточно",
+      "eng": "enough",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/enough.mp3"
+    },
+	{
+      "rus": "факт",
+      "eng": "fact",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/fact.mp3"
+    },
+	{
+      "rus": "каждый",
+      "eng": "every",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/every.mp3"
+    },
+	{
+      "rus": "всё",
+      "eng": "everything",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/everything.mp3"
+    },
+	{
+      "rus": "отличный",
+      "eng": "excellent",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/excellent.mp3"
+    },
+	{
+      "rus": "извинение",
+      "eng": "excuse",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/excuse.mp3"
+    },
+	{
+      "rus": "крайне",
+      "eng": "extremely",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/extremely.mp3"
+    },
+	{
+      "rus": "пример",
+      "eng": "example",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/example.mp3"
+    },
+	{
+      "rus": "трава",
+      "eng": "grass",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/grass.mp3"
+    },
+	{
+      "rus": "хороший",
+      "eng": "good",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/good.mp3"
+    },
+	{
+      "rus": "зелёный",
+      "eng": "green",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/green.mp3"
+    },
+	{
+      "rus": "имеет",
+      "eng": "has",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/has.mp3"
+    },
+	{
+      "rus": "счастливый",
+      "eng": "happy",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/happy.mp3"
+    },
+	{
+      "rus": "козёл, коза",
+      "eng": "goat",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/goat.mp3"
+    },
+    {
+      "rus": "невозможный",
+      "eng": "impossible",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/impossible.mp3"
+    },
+	{
+      "rus": "впечатляющий",
+      "eng": "impressive",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/impressive.mp3"
+    },
+	{
+      "rus": "дюйм",
+      "eng": "inch",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/inch.mp3"
+    },
+    {
+      "rus": "закон",
+      "eng": "law",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/law.mp3"
+    },
+    {
+      "rus": "определённо ",
+      "eng": "certainly",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/certainly.mp3"
+    },
+    {
+      "rus": "нужный",
+      "eng": "necessary",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/necessary.mp3"
+    },
+    {
+      "rus": "предложение",
+      "eng": "sentence",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/sentence.mp3"
+    },
+    {
+      "rus": "шанс",
+      "eng": "chance",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/chance.mp3"
+    },
+    {
+      "rus": "хвост",
+      "eng": "tail",
+      "url": "http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/tail.mp3"
+    }
+  ],
+  "tableWin": [
+    {
+      "name": "Nikolaich",
+      "qtyWords": 7,
+      "date": "2019-06-15T19:02:30.476Z",
+      "id": 1
+    },
+    {
+      "name": "Dron",
+      "qtyWords": 6,
+      "date": "2019-06-15T19:04:37.329Z",
+      "id": 2
+    },
+    {
+      "name": "Stalin",
+      "qtyWords": 7,
+      "date": "2019-06-15T19:06:02.298Z",
+      "id": 3
+    },
+    {
+      "name": "Spiderman",
+      "qtyWords": 8,
+      "date": "2019-06-15T19:07:34.610Z",
+      "id": 4
+    },
+    {
+      "name": "Andrey",
+      "qtyWords": 1,
+      "date": "2019-06-16T10:57:47.620Z",
+      "id": 5
+    },
+    {
+      "name": "Felix",
+      "qtyWords": 7,
+      "date": "2019-06-16T12:55:22.603Z",
+      "id": 6
+    }
+  ]
+}

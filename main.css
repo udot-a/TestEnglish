@@ -1,0 +1,57 @@
+body{
+    position: relative;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    background: url(fon.jpg) no-repeat;
+    background-size: cover;
+}
+  .site-header {
+    position: absolute;
+    top: 0;
+    height: 100px;
+    width: 100%;
+    background: rebeccapurple;
+    text-align: center;
+  }
+  footer{
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+      background-color: aquamarine;
+  }
+   .base{
+      color:blue;
+      font-size:32px;
+      height: 600px;
+      margin:auto;
+      width:50%;
+      text-align: center;
+  } 
+  .begin{
+    height: 600px;
+    margin:auto;
+    width:100%;
+    text-align: center; 
+  }
+  .resultScr{
+    height: 600px;
+    margin:auto;
+    width:50%;
+    text-align: center; 
+  }
+  .tableResult{
+    /* height: 600px; */
+    margin:auto;
+    width:100%;
+    color:crimson;
+  }
+
+  b{
+      font-size:30px;
+      color:red;
+  }
+  em{
+      font-size:80px;
+      color:orange;
+  }

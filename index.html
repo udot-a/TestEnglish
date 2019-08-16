@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Check your English</title>
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <link rel="shortcut icon" href="United-Kingdom-icon.png">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+</head>
+
+<body>
+
+    <header class="site-header" style="font-size:48px; color:cyan";>
+        <img src="eng_img.gif" width="100">
+        Проверь свой Английский
+    </header>
+    <!-- Экран теста -->
+    <div class="container">
+    <div class="base d-none"  id="main">
+
+        <img src="speaker-black.jpg" title="Воспроизведение слова на англ.языке" width="100px" id='speaker'>
+        <p id="rus" style="color:blue;"></p>
+        <input type="text" class="form-control" id="eng" style="font-size: 32px">
+        <input type="button" value="Проверить" id="check" class="btn btn-primary">
+        <input type="button" value="Пропустить" id="pass" class="btn btn-secondary">
+        <br>
+        <b> Тест закончится через: </b> <em id="timer">60</em> <b>секунд</b>
+        <p id="pause"></p>
+    </div>
+    <!-- Начальный экран -->
+    <div class="begin d-block"  id="start">
+        <p style="font-size: 100px; color: chartreuse; " id="beginCount">10</p><br>
+        <input type="button" class="btn btn-success" value="Начать тест" id="beginTest"> <br>
+        <img src="kubok.gif" width="100px" id="kubok"><br>
+        <input type="button" class="btn btn-warning" Value="Таблица результатов" id="butResult">
+
+    </div>
+    <!-- Результат -->
+    <div class="resultScr d-none"  id="result">
+        <p style="font-size: 50px; color: rgb(0, 153, 255); ">Поздравляем Ваш результат: <em id="res"></em> слов!!!</p>
+        <br>
+        <!-- <b style="font-size: 28px; color:blue">Введите свое имя:</b>  -->
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="basic-addon1">Введите Ваше имя: </span>
+         
+        <input type="text" maxlength="15" id="nameUser" class="form-control" aria-describedby="basic-addon1">
+        </div>
+        <br>
+        <input type="button" value="Запомнить результат" id="saveRes" class="btn btn-secondary">
+        <input type="button" value="Отмена" id="escape" class="btn btn-secondary">
+        <p id="pauseRes"></p>
+    </div>
+    <!-- Таблица результатов -->
+    <div class="tableResult d-none"  id="tabRes">
+            <select id='direct' class="form-control">
+                <option value="asc">По возрастанию</option>
+                <option selected value="desc" >По убыванию</option>
+            </select>
+            <select id='itemSort' class="form-control">
+                <option selected value="qtyWords" >По кол-ву слов</option>
+                <option value="name" >По имени</option>
+                <option value="date" >По дате</option>
+            </select>
+            <input type="button" id='sort' value='Сортировать' class="btn btn-info">
+            <input type="button" id='back' value='Вернуться' class="btn btn-info">
+            <p><h2>Таблица результатов:</h2></p>
+            <table border="1" id="table" class="table table-striped table-dark">
+                <!-- <caption valign="top">
+                    <h1>Таблица результатов</h1>
+                </caption> -->
+                <tr>
+                    <th>№ п/п</th>
+                    <th>Имя</th>
+                    <th>Количество угаданных слов</th>
+                    <th>Дата</th>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <footer>
+        @All rights reserved
+    </footer>
+    <script src="library.js"></script>
+</body>
+
+</html>
+<!-- https://www.englishspeak.com/ru/english-words -->
+<!-- http://qaru.site/questions/17284/playing-audio-with-javascript -->
